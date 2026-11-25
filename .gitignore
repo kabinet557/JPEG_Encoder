@@ -1,0 +1,4 @@
+rgb8bit/
+*.zip
+*.ppm
+__pycache__/
